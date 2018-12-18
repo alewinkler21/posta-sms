@@ -1,4 +1,4 @@
-# plibo-sms
+# posta-sms
 
 A Clojure library designed to send SMS messages through **posta SMS API Platfotm**.
 
