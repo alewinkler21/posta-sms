@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a8a90a5-d0e0-4b28-9151-b725745dbe7d" name="Default Changelist" comment="" />
+    <list default="true" id="0a8a90a5-d0e0-4b28-9151-b725745dbe7d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/test/posta_sms/client_test.clj" beforeDir="false" afterPath="$PROJECT_DIR$/test/posta_sms/client_test.clj" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,38 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/posta_sms/client.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="41" column="44" lean-forward="true" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/posta_sms/client_test.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="49" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/posta_sms/message.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="4" selection-start-column="4" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/posta_sms/date_utils.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="4" selection-start-column="4" selection-end-column="24" />
+            <state relative-caret-position="195">
+              <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -59,6 +34,9 @@
     <findStrings>
       <find>clj-http-options</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -80,6 +58,7 @@
     <option name="width" value="1280" />
     <option name="height" value="722" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -91,22 +70,6 @@
             <path>
               <item name="posta-sms" type="b2602c69:ProjectViewProjectNode" />
               <item name="posta-sms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="posta-sms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="posta-sms" type="462c0819:PsiDirectoryNode" />
-              <item name="posta-sms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="posta-sms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="posta-sms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="posta-sms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="posta-sms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="posta_sms" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="posta-sms" type="b2602c69:ProjectViewProjectNode" />
@@ -128,7 +91,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545133657601" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545134665735" />
     <property name="cursive.last.file.extension./Users/alewinkler/Development/clojure/posta-sms/src" value="clj" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
@@ -138,7 +101,7 @@
       <recent name="$PROJECT_DIR$/src/posta_sms" />
     </key>
   </component>
-  <component name="ReplState" timestamp="1545133597060">{:repl-history {:ide [], :local [{:command &quot;(messag/create \&quot;a\&quot; \&quot;a\&quot; \&quot;a\&quot; \&quot;a\&quot;)&quot;, :offset 31, :ns &quot;user&quot;} {:command &quot;(message/create \&quot;12345678\&quot; \&quot;the text\&quot; \&quot;1\&quot; \&quot;2018-12-16 08:30\&quot;)&quot;, :offset 61, :ns &quot;user&quot;} {:command &quot;(de m (message/create \&quot;12345678\&quot; \&quot;the text\&quot; \&quot;1\&quot; \&quot;2018-12-16 08:30\&quot;))&quot;, :offset 68, :ns &quot;user&quot;} {:command &quot;(:phone m)&quot;, :offset 10, :ns &quot;user&quot;} {:command &quot;(def c (client/cr))&quot;, :offset 19} {:command &quot;(def m (message/create \&quot;12345678\&quot; \&quot;the text\&quot; \&quot;1\&quot; \&quot;2018-12-16 08:30\&quot;))&quot;, :offset 69, :ns &quot;user&quot;} {:command &quot;m&quot;, :offset 1, :ns &quot;user&quot;} {:command &quot;(ns posta-sms.client\n  (:require [clj-http.client :as http-client]\n            [cheshire.core :refer [generate-string parse-string]]\n            [posta-sms.logger :as log]\n            [posta-sms.date-utils :refer [last-hour]]\n            [clojure.string :as string]))&quot;, :offset 267, :ns &quot;user&quot;} {:command &quot;macroexpand-1&quot;, :offset 13, :ns &quot;posta-sms.client&quot;} {:command &quot;messages&quot;, :offset 8, :ns &quot;posta-sms.client&quot;} {:command &quot;(generate-string messages)&quot;, :offset 26, :ns &quot;posta-sms.client&quot;} {:command &quot;(println (generate-string messages))&quot;, :offset 36, :ns &quot;posta-sms.client&quot;} {:command &quot;c&quot;, :offset 1, :ns &quot;posta-sms.client&quot;} {:command &quot;(request nil :post sms-url (assoc c :messages messages))&quot;, :offset 56, :ns &quot;posta-sms.client&quot;} {:command &quot;(ns posta-sms.client\n  (:require [clj-http.client :as http-client]\n            [cheshire.core :refer [generate-string parse-string]]\n            [posta-sms.logger :as log]\n            [posta-sms.date-utils :refer [last-hour]]\n            [clojure.string :as string]))\n&quot;, :offset 268, :ns &quot;user&quot;} {:command &quot;(def m2 (message/create \&quot;55555555\&quot; \&quot;the text 2\&quot; \&quot;2\&quot; \&quot;2018-12-16 08:30\&quot;))&quot;, :offset 72, :ns &quot;posta-sms.client&quot;} {:command &quot;(def m1 (message/create \&quot;12345678\&quot; \&quot;the text\&quot; \&quot;1\&quot; \&quot;2018-12-16 08:30\&quot;))&quot;, :offset 70, :ns &quot;posta-sms.client&quot;} {:command &quot;(def messages [m1 m2])&quot;, :offset 22, :ns &quot;posta-sms.client&quot;} {:command &quot;(def c (client/create \&quot;999\&quot;))&quot;, :offset 29, :ns &quot;posta-sms.client&quot;} {:command &quot;(assoc client :messages messages)&quot;, :offset 33, :ns &quot;posta-sms.client&quot;} {:command &quot;(assoc c :messages messages)&quot;, :offset 28, :ns &quot;posta-sms.client&quot;} {:command &quot;(generate-string (assoc c :messages messages))&quot;, :offset 46, :ns &quot;posta-sms.client&quot;} {:command &quot;(println (generate-string (assoc c :messages messages)))&quot;, :offset 56, :ns &quot;posta-sms.client&quot;} {:command &quot;(ns posta-sms.core\n  (:require [posta-sms.client :as sms-client]\n            [posta-sms.message :as sms-message]\n            [clj-time.core :as t]\n            [clj-time.format :as f]))&quot;, :offset 184, :ns &quot;user&quot;} {:command &quot;(f/unparse (f/formatter \&quot;YYYYMMdd\&quot;) (t/now))&quot;, :offset 44, :ns &quot;posta-sms.core&quot;} {:command &quot;(f/unparse (f/formatter (t/time-zone-for-id \&quot;America/Montevideo\&quot;) \&quot;YYYYMMdd\&quot;) (t/now))&quot;, :offset 86, :ns &quot;posta-sms.core&quot;} {:command &quot;(f/unparse (f/formatter (t/time-zone-for-id \&quot;America/Montevideo\&quot;) \&quot;YYYYMMdd\&quot; \&quot;YYYYMMdd\&quot;) (t/now))&quot;, :offset 97, :ns &quot;posta-sms.core&quot;} {:command &quot;(f/unparse (f/formatter \&quot;YYYYMMdd\&quot; (t/time-zone-for-id \&quot;America/Montevideo\&quot;)) (t/now))&quot;, :offset 86, :ns &quot;posta-sms.core&quot;} {:command &quot;(f/unparse (f/formatter :mysql) (t/now))&quot;, :offset 40, :ns &quot;posta-sms.core&quot;} {:command &quot;(f/unparse (f/formatter :mysql (t/time-zone-for-id \&quot;America/Montevideo\&quot;)) (t/now))&quot;, :offset 82, :ns &quot;posta-sms.core&quot;} {:command &quot;(t/now)&quot;, :offset 7, :ns &quot;posta-sms.core&quot;} {:command &quot;(java.util.UUID/randomUUID)&quot;, :offset 27, :ns &quot;user&quot;} {:command &quot;(println (java.util.UUID/randomUUID))&quot;, :offset 37, :ns &quot;user&quot;} {:command &quot;(str (java.util.UUID/randomUUID))&quot;, :offset 33, :ns &quot;user&quot;} {:command &quot;(require '[posta-sms.message :as message])&quot;, :offset 42, :ns &quot;user&quot;} {:command &quot;(message)&quot;, :offset 8} {:command &quot;(require '[posta-sms.client :as client])&quot;, :offset 40, :ns &quot;user&quot;} {:command &quot;(def c (client/create \&quot;1111\&quot;))&quot;, :offset 30, :ns &quot;user&quot;} {:command &quot;()&quot;, :offset 1} {:command &quot;(map (message/create (:number %) (:text %) (:id %) (:schedule %)) test-data)&quot;, :offset 76, :ns &quot;user&quot;} {:command &quot;(def test-data (get-test-data))&quot;, :offset 31, :ns &quot;user&quot;} {:command &quot;(get-test-data)&quot;, :offset 15, :ns &quot;user&quot;} {:command &quot;(map #(message/create (:number %) (:text %) (:id %) (:schedule %)) test-data)&quot;, :offset 77, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (get-test-data)\n     (map #(sms-message/create (:number %) (:text %) (:id %) (:schedule %))))&quot;, :offset 98, :ns &quot;posta-sms.core&quot;} {:command &quot;(foo)&quot;, :offset 5, :ns &quot;user&quot;} {:command &quot;(@queued-sms)&quot;, :offset 13, :ns &quot;user&quot;} {:command &quot;(successful-response? {:status 200, :body {:responseCode 0, :responseDescription \&quot;Solicitud enviada correctamente\&quot;, :smsRequestId 1665}})&quot;, :offset 137, :ns &quot;user&quot;} {:command &quot;(doseq [request @queued-sms]\n  (println (:smsRequestId request)))&quot;, :offset 65, :ns &quot;user&quot;} {:command &quot;(use 'posta-sms.client)&quot;, :offset 23, :ns &quot;user&quot;} {:command &quot;(ns posta-sms.client\n  (:require [clj-http.client :as http-client]\n            [cheshire.core :refer [generate-string parse-string]]\n            [posta-sms.logger :as log]))&quot;, :offset 173, :ns &quot;user&quot;} {:command &quot;(check-sms-status \&quot;1667\&quot;)&quot;, :offset 25, :ns &quot;posta-sms.client&quot;} {:command &quot;(check-sms-status 1667)&quot;, :offset 23, :ns &quot;posta-sms.client&quot;} {:command &quot;(def x (test-check-sms-status))&quot;, :offset 31, :ns &quot;user&quot;} {:command &quot;x&quot;, :offset 1, :ns &quot;user&quot;} {:command &quot;(first x)&quot;, :offset 9, :ns &quot;user&quot;} {:command &quot;(ns posta-sms.core\n  (:require [posta-sms.client :as sms-client]\n            [posta-sms.message :as sms-message]\n            [clj-time.core :as t]))&quot;, :offset 148, :ns &quot;user&quot;} {:command &quot;(t/day-of-week (t/now))&quot;, :offset 23, :ns &quot;posta-sms.core&quot;} {:command &quot;test-data&quot;, :offset 9, :ns &quot;user&quot;} {:command &quot;(count test-data)&quot;, :offset 17, :ns &quot;user&quot;} {:command &quot;(def d {:status 200,\n        :body {:data [{:status \&quot;PROCESADO CON EXITO\&quot;,\n                       :delivered \&quot;2018-12-17 09:24:54\&quot;,\n                       :text \&quot;this is the text 1\&quot;,\n                       :phone \&quot;091335155\&quot;,\n                       :textResponse nil,\n                       :smsRequestId 1668}\n                      {:status \&quot;PROCESADO CON EXITO\&quot;,\n                       :delivered \&quot;2018-12-17 09:24:54\&quot;,\n                       :text \&quot;this is the text 2\&quot;,\n                       :phone \&quot;099694853\&quot;,\n                       :textResponse nil,\n                       :smsRequestId 1668}]}})&quot;, :offset 604, :ns &quot;user&quot;} {:command &quot;(get-in d [:body :data])&quot;, :offset 24, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (get-in d [:body :data]))&quot;, :offset 30, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (get-in d [:body :data])\n     (filter #(= (:status %) \&quot;PROCESADO CON AXITO\&quot;)))&quot;, :offset 83, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (get-in d [:body :data])\n     (filter #(= (:status %) \&quot;PROCESADO CON EXITO\&quot;)))&quot;, :offset 83, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (get-in d [:body :data])\n     (filter #(= (:status %) \&quot;PROCESADO CON EXITO\&quot;))\n     (count))&quot;, :offset 96, :ns &quot;user&quot;} {:command &quot;(use 'posta-sms.core)&quot;, :offset 21, :ns &quot;user&quot;} {:command &quot;(test-send-sms)&quot;, :offset 15, :ns &quot;user&quot;} {:command &quot;@queued-sms&quot;, :offset 11, :ns &quot;user&quot;} {:command &quot;(test-check-sms-status)&quot;, :offset 23, :ns &quot;user&quot;} {:command &quot;#(println \&quot;toto\&quot;)&quot;, :offset 17, :ns &quot;user&quot;} {:command &quot;(#(println \&quot;toto\&quot;))&quot;, :offset 19, :ns &quot;user&quot;} {:command &quot;(ns posta-sms.client-test\n  (:require [clojure.test :refer :all]\n            [posta-sms.client :as sms-client]\n            [posta-sms.message :as sms-message]\n            [clj-time.core :as t]))&quot;, :offset 194, :ns &quot;user&quot;} {:command &quot;(#(letfn [(uuid [] (str (java.util.UUID/randomUUID)))]\n    (let [current-date (t/now)]\n      [{:number   \&quot;091335155\&quot;\n        :text     \&quot;this is the text 1\&quot;\n        :id       (uuid)\n        :schedule current-date}\n       {:number   \&quot;099694853\&quot;\n        :text     \&quot;this is the text 2\&quot;\n        :id       (uuid)\n        :schedule current-date}])))&quot;, :offset 342, :ns &quot;posta-sms.client-test&quot;}], :remote []}}</component>
+  <component name="ReplState" timestamp="1545134665733">{:repl-history {:ide [], :local [{:command &quot;(messag/create \&quot;a\&quot; \&quot;a\&quot; \&quot;a\&quot; \&quot;a\&quot;)&quot;, :offset 31, :ns &quot;user&quot;} {:command &quot;(message/create \&quot;12345678\&quot; \&quot;the text\&quot; \&quot;1\&quot; \&quot;2018-12-16 08:30\&quot;)&quot;, :offset 61, :ns &quot;user&quot;} {:command &quot;(de m (message/create \&quot;12345678\&quot; \&quot;the text\&quot; \&quot;1\&quot; \&quot;2018-12-16 08:30\&quot;))&quot;, :offset 68, :ns &quot;user&quot;} {:command &quot;(:phone m)&quot;, :offset 10, :ns &quot;user&quot;} {:command &quot;(def c (client/cr))&quot;, :offset 19} {:command &quot;(def m (message/create \&quot;12345678\&quot; \&quot;the text\&quot; \&quot;1\&quot; \&quot;2018-12-16 08:30\&quot;))&quot;, :offset 69, :ns &quot;user&quot;} {:command &quot;m&quot;, :offset 1, :ns &quot;user&quot;} {:command &quot;(ns posta-sms.client\n  (:require [clj-http.client :as http-client]\n            [cheshire.core :refer [generate-string parse-string]]\n            [posta-sms.logger :as log]\n            [posta-sms.date-utils :refer [last-hour]]\n            [clojure.string :as string]))&quot;, :offset 267, :ns &quot;user&quot;} {:command &quot;macroexpand-1&quot;, :offset 13, :ns &quot;posta-sms.client&quot;} {:command &quot;messages&quot;, :offset 8, :ns &quot;posta-sms.client&quot;} {:command &quot;(generate-string messages)&quot;, :offset 26, :ns &quot;posta-sms.client&quot;} {:command &quot;(println (generate-string messages))&quot;, :offset 36, :ns &quot;posta-sms.client&quot;} {:command &quot;c&quot;, :offset 1, :ns &quot;posta-sms.client&quot;} {:command &quot;(request nil :post sms-url (assoc c :messages messages))&quot;, :offset 56, :ns &quot;posta-sms.client&quot;} {:command &quot;(ns posta-sms.client\n  (:require [clj-http.client :as http-client]\n            [cheshire.core :refer [generate-string parse-string]]\n            [posta-sms.logger :as log]\n            [posta-sms.date-utils :refer [last-hour]]\n            [clojure.string :as string]))\n&quot;, :offset 268, :ns &quot;user&quot;} {:command &quot;(def m2 (message/create \&quot;55555555\&quot; \&quot;the text 2\&quot; \&quot;2\&quot; \&quot;2018-12-16 08:30\&quot;))&quot;, :offset 72, :ns &quot;posta-sms.client&quot;} {:command &quot;(def m1 (message/create \&quot;12345678\&quot; \&quot;the text\&quot; \&quot;1\&quot; \&quot;2018-12-16 08:30\&quot;))&quot;, :offset 70, :ns &quot;posta-sms.client&quot;} {:command &quot;(def messages [m1 m2])&quot;, :offset 22, :ns &quot;posta-sms.client&quot;} {:command &quot;(def c (client/create \&quot;999\&quot;))&quot;, :offset 29, :ns &quot;posta-sms.client&quot;} {:command &quot;(assoc client :messages messages)&quot;, :offset 33, :ns &quot;posta-sms.client&quot;} {:command &quot;(assoc c :messages messages)&quot;, :offset 28, :ns &quot;posta-sms.client&quot;} {:command &quot;(generate-string (assoc c :messages messages))&quot;, :offset 46, :ns &quot;posta-sms.client&quot;} {:command &quot;(println (generate-string (assoc c :messages messages)))&quot;, :offset 56, :ns &quot;posta-sms.client&quot;} {:command &quot;(ns posta-sms.core\n  (:require [posta-sms.client :as sms-client]\n            [posta-sms.message :as sms-message]\n            [clj-time.core :as t]\n            [clj-time.format :as f]))&quot;, :offset 184, :ns &quot;user&quot;} {:command &quot;(f/unparse (f/formatter \&quot;YYYYMMdd\&quot;) (t/now))&quot;, :offset 44, :ns &quot;posta-sms.core&quot;} {:command &quot;(f/unparse (f/formatter (t/time-zone-for-id \&quot;America/Montevideo\&quot;) \&quot;YYYYMMdd\&quot;) (t/now))&quot;, :offset 86, :ns &quot;posta-sms.core&quot;} {:command &quot;(f/unparse (f/formatter (t/time-zone-for-id \&quot;America/Montevideo\&quot;) \&quot;YYYYMMdd\&quot; \&quot;YYYYMMdd\&quot;) (t/now))&quot;, :offset 97, :ns &quot;posta-sms.core&quot;} {:command &quot;(f/unparse (f/formatter \&quot;YYYYMMdd\&quot; (t/time-zone-for-id \&quot;America/Montevideo\&quot;)) (t/now))&quot;, :offset 86, :ns &quot;posta-sms.core&quot;} {:command &quot;(f/unparse (f/formatter :mysql) (t/now))&quot;, :offset 40, :ns &quot;posta-sms.core&quot;} {:command &quot;(f/unparse (f/formatter :mysql (t/time-zone-for-id \&quot;America/Montevideo\&quot;)) (t/now))&quot;, :offset 82, :ns &quot;posta-sms.core&quot;} {:command &quot;(t/now)&quot;, :offset 7, :ns &quot;posta-sms.core&quot;} {:command &quot;(java.util.UUID/randomUUID)&quot;, :offset 27, :ns &quot;user&quot;} {:command &quot;(println (java.util.UUID/randomUUID))&quot;, :offset 37, :ns &quot;user&quot;} {:command &quot;(str (java.util.UUID/randomUUID))&quot;, :offset 33, :ns &quot;user&quot;} {:command &quot;(require '[posta-sms.message :as message])&quot;, :offset 42, :ns &quot;user&quot;} {:command &quot;(message)&quot;, :offset 8} {:command &quot;(require '[posta-sms.client :as client])&quot;, :offset 40, :ns &quot;user&quot;} {:command &quot;(def c (client/create \&quot;1111\&quot;))&quot;, :offset 30, :ns &quot;user&quot;} {:command &quot;()&quot;, :offset 1} {:command &quot;(map (message/create (:number %) (:text %) (:id %) (:schedule %)) test-data)&quot;, :offset 76, :ns &quot;user&quot;} {:command &quot;(def test-data (get-test-data))&quot;, :offset 31, :ns &quot;user&quot;} {:command &quot;(get-test-data)&quot;, :offset 15, :ns &quot;user&quot;} {:command &quot;(map #(message/create (:number %) (:text %) (:id %) (:schedule %)) test-data)&quot;, :offset 77, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (get-test-data)\n     (map #(sms-message/create (:number %) (:text %) (:id %) (:schedule %))))&quot;, :offset 98, :ns &quot;posta-sms.core&quot;} {:command &quot;(foo)&quot;, :offset 5, :ns &quot;user&quot;} {:command &quot;(@queued-sms)&quot;, :offset 13, :ns &quot;user&quot;} {:command &quot;(successful-response? {:status 200, :body {:responseCode 0, :responseDescription \&quot;Solicitud enviada correctamente\&quot;, :smsRequestId 1665}})&quot;, :offset 137, :ns &quot;user&quot;} {:command &quot;(doseq [request @queued-sms]\n  (println (:smsRequestId request)))&quot;, :offset 65, :ns &quot;user&quot;} {:command &quot;(use 'posta-sms.client)&quot;, :offset 23, :ns &quot;user&quot;} {:command &quot;(ns posta-sms.client\n  (:require [clj-http.client :as http-client]\n            [cheshire.core :refer [generate-string parse-string]]\n            [posta-sms.logger :as log]))&quot;, :offset 173, :ns &quot;user&quot;} {:command &quot;(check-sms-status \&quot;1667\&quot;)&quot;, :offset 25, :ns &quot;posta-sms.client&quot;} {:command &quot;(check-sms-status 1667)&quot;, :offset 23, :ns &quot;posta-sms.client&quot;} {:command &quot;(def x (test-check-sms-status))&quot;, :offset 31, :ns &quot;user&quot;} {:command &quot;x&quot;, :offset 1, :ns &quot;user&quot;} {:command &quot;(first x)&quot;, :offset 9, :ns &quot;user&quot;} {:command &quot;(ns posta-sms.core\n  (:require [posta-sms.client :as sms-client]\n            [posta-sms.message :as sms-message]\n            [clj-time.core :as t]))&quot;, :offset 148, :ns &quot;user&quot;} {:command &quot;(t/day-of-week (t/now))&quot;, :offset 23, :ns &quot;posta-sms.core&quot;} {:command &quot;test-data&quot;, :offset 9, :ns &quot;user&quot;} {:command &quot;(count test-data)&quot;, :offset 17, :ns &quot;user&quot;} {:command &quot;(def d {:status 200,\n        :body {:data [{:status \&quot;PROCESADO CON EXITO\&quot;,\n                       :delivered \&quot;2018-12-17 09:24:54\&quot;,\n                       :text \&quot;this is the text 1\&quot;,\n                       :phone \&quot;091335155\&quot;,\n                       :textResponse nil,\n                       :smsRequestId 1668}\n                      {:status \&quot;PROCESADO CON EXITO\&quot;,\n                       :delivered \&quot;2018-12-17 09:24:54\&quot;,\n                       :text \&quot;this is the text 2\&quot;,\n                       :phone \&quot;099694853\&quot;,\n                       :textResponse nil,\n                       :smsRequestId 1668}]}})&quot;, :offset 604, :ns &quot;user&quot;} {:command &quot;(get-in d [:body :data])&quot;, :offset 24, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (get-in d [:body :data]))&quot;, :offset 30, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (get-in d [:body :data])\n     (filter #(= (:status %) \&quot;PROCESADO CON AXITO\&quot;)))&quot;, :offset 83, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (get-in d [:body :data])\n     (filter #(= (:status %) \&quot;PROCESADO CON EXITO\&quot;)))&quot;, :offset 83, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (get-in d [:body :data])\n     (filter #(= (:status %) \&quot;PROCESADO CON EXITO\&quot;))\n     (count))&quot;, :offset 96, :ns &quot;user&quot;} {:command &quot;(use 'posta-sms.core)&quot;, :offset 21, :ns &quot;user&quot;} {:command &quot;(test-send-sms)&quot;, :offset 15, :ns &quot;user&quot;} {:command &quot;@queued-sms&quot;, :offset 11, :ns &quot;user&quot;} {:command &quot;(test-check-sms-status)&quot;, :offset 23, :ns &quot;user&quot;} {:command &quot;#(println \&quot;toto\&quot;)&quot;, :offset 17, :ns &quot;user&quot;} {:command &quot;(#(println \&quot;toto\&quot;))&quot;, :offset 19, :ns &quot;user&quot;} {:command &quot;(ns posta-sms.client-test\n  (:require [clojure.test :refer :all]\n            [posta-sms.client :as sms-client]\n            [posta-sms.message :as sms-message]\n            [clj-time.core :as t]))&quot;, :offset 194, :ns &quot;user&quot;} {:command &quot;(#(letfn [(uuid [] (str (java.util.UUID/randomUUID)))]\n    (let [current-date (t/now)]\n      [{:number   \&quot;091335155\&quot;\n        :text     \&quot;this is the text 1\&quot;\n        :id       (uuid)\n        :schedule current-date}\n       {:number   \&quot;099694853\&quot;\n        :text     \&quot;this is the text 2\&quot;\n        :id       (uuid)\n        :schedule current-date}])))&quot;, :offset 342, :ns &quot;posta-sms.client-test&quot;}], :remote []}}</component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -292,9 +255,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/posta-sms/posta-sms.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/posta_sms/logger.clj">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -323,10 +283,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/posta-sms/posta-sms.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/posta_sms/client_test.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="49" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+        <state relative-caret-position="195">
+          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
         </state>
       </provider>
     </entry>
